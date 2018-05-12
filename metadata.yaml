@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1564
     wikipedia: http://en.wikipedia.org/wiki/A._E._W._Mason
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38693#The-WatchersA-Novel
 gutenberg_issued: '2012-01-27'
 gutenberg_type: Text
 identifiers:
